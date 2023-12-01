@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>16 funcao</title>
+
+  <script>
+    // Função para a tag de seleção 
+    function linguagem(elemento){
+      console.log(elemento);
+
+      switch(parseInt(elemento)){
+        case 1:
+          alert("Linguagem de marcação")
+          break;
+
+        case 2: 
+          alert("Linguagem de estilos")
+          break;
+
+        case 3: 
+          alert("Linguagem de programação")
+          break;
+          
+        default:
+          alert("Escolha Uma Linguagem");  
+      }
+
+
+    //   if(elemento === 1){
+    //     console.log("é um numero");
+    //   }else{
+    //     console.log("não é um numero");
+    //   }
+    // 
+  }
+
+  </script>
+  
+
+</head>
+<body>
+
+    <!-- tag Select - Caixa de seleção -->
+  <select onchange="linguagem(this.value)">
+    <option value="0">Escolha Uma Linguagem</option>
+    <option value="1">HTML</option>
+    <option value="2">CSS</option>
+    <option value="3">JAVASCRIPT</option>
+  </select>
+  
+</body>
+</html>
