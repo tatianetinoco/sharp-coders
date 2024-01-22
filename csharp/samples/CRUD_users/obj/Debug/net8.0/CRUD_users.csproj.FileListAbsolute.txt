@@ -1,0 +1,15 @@
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\bin\Debug\net8.0\CRUD_users.exe
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\bin\Debug\net8.0\CRUD_users.deps.json
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\bin\Debug\net8.0\CRUD_users.runtimeconfig.json
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\bin\Debug\net8.0\CRUD_users.dll
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\bin\Debug\net8.0\CRUD_users.pdb
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.AssemblyInfoInputs.cache
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.AssemblyInfo.cs
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.csproj.CoreCompileInputs.cache
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.sourcelink.json
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.dll
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\refint\CRUD_users.dll
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.pdb
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\CRUD_users.genruntimeconfig.cache
+D:\Dev\sharp-coders\csharp\samples\CRUD_users\obj\Debug\net8.0\ref\CRUD_users.dll
