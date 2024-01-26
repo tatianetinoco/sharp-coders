@@ -2,13 +2,16 @@ namespace IntroPOO;
 
 public class Carro
 { 
-  public string placa;
-  public string dono;
-  public int ano;
-  public string cor;
-  public string modelo;
-  public double combustivelEmLitros = 20;
 
+  // Tem - Atributos
+  public string? placa; // null
+  public string dono = "";
+  public int ano; // 0
+  public string cor = null!;
+  public string modelo = null!;
+  public double combustivelEmLitros; // 0.0
+
+  // Faz - Métodos
   public void Abastecer(double quantidadeEmLitros) {
     combustivelEmLitros += quantidadeEmLitros;
   }
